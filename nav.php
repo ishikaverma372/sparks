@@ -1,4 +1,4 @@
-<!-- nav section starts here -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,7 +21,7 @@
 
   <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #dfe4ea;">
     <div class="container-fluid">
-      <!-- <a class="navbar-brand logo" href="index.php"><img src="img/logo.png" alt="logo" height=50px width=50px></a> -->
+     
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -33,7 +33,7 @@
             <a class="nav-link text-white" href="index.php">Home</a>
           </li>
           <li class="nav-item btn btn-secondary">
-            <a class="nav-link link-text text-white" href="https://abhijitpal.netlify.app">About </a>
+            <a class="nav-link link-text text-white" href="https://www.linkedin.com/in/ishika-verma-3046041a9">About </a>
           </li>
           <li class="nav-item btn btn-secondary">
             <a class="nav-link link-text text-white" href="contactme.php">Contact </a>
